@@ -19,7 +19,7 @@ from PIL import Image, ImageTk
 -------------------------------------------------------------------------------
 * Título: Sistema de Control de Emergencias (Talanqueras)
 * Autor: Juan Jose Gañan. Ingenieria de Software 
-* Año: Mayo de 2024
+* Año: Junio de 2024
 * Descripción: Este software utiliza técnicas de procesamiento de audio y 
              aprendizaje automático para detectar sonidos de emergencia 
              (como ambulancias y camiones de bomberos) y simular la elevación 
